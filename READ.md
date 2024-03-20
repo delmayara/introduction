@@ -1,1 +1,1 @@
-This is a practice for java 1
+This is a practice for java 2
